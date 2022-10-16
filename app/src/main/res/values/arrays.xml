@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="atype">
+        <item>
+            一
+        </item>
+
+        <item>
+            二
+        </item>
+
+        <item>
+            三
+        </item>
+
+        <item>
+            四
+        </item>
+    </string-array>
+
+    <string-array name="selection">
+        <item>
+            温度
+        </item>
+
+        <item>
+            湿度
+        </item>
+
+        <item>
+            光照强度
+        </item>
+
+        <item>
+            PH
+        </item>
+        <item>
+            CO2
+        </item>
+        <item>
+            O2
+        </item>
+    </string-array>
+
+    <string-array name="selection1">
+        <item>
+            y=a*x^2+bx+c
+        </item>
+
+        <item>
+            y=a*e^x+x*ln(b)
+        </item>
+
+        <item>
+            y=a*ln(b)+e^x
+        </item>
+
+        <item>
+            敬请期待
+        </item>
+    </string-array>
+</resources>
